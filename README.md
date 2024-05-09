@@ -2,7 +2,7 @@
 ![preview](./preview/Login.png)
 
 ## Projeto 💻
-Projeto desenvolvido por meio de um vídeo no YouTube do canal da Markzuel.
+Projeto desenvolvido por meio de um vídeo no YouTube do canal do Markzuel.
 - YouTube: [TELA DE LOGIN COM TEMA DARK | HTML + CSS](https://youtu.be/69-WfrVBli8?si=ygQNbDmxmPe6CzN-)
 
 ## Instalação 🛠
